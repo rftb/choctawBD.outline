@@ -21,7 +21,17 @@ header, footer, nav, section, article, hgroup, figure {
 /************Global**************/
 
 
-
+.sidebar > h1 {
+  font-size: 1.25em;
+  background-color: #333;
+  margin: 0 -.85em;
+  padding: 1em;
+  font-weight: 300;
+  letter-spacing: .05em;
+  a {
+    color: #FFF;
+  }
+}
 
 .timeline h1 {
   font-size: 2em;

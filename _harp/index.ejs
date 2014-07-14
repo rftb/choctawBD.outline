@@ -9,12 +9,12 @@
 </head>
 <body>
 
-  <div class="col-xs-4 sidebar">
+  <div class="col-sm-3 sidebar">
+    <h1><a href="scope.html"><%= project_name %></a></h1>
     <div class="scroll">
       <% if (public._data && public._data.timeline && public._data.timeline.length > 0) { %>
         <!-- Make sure we have timeline data -->
         <% var tl = public._data.timeline %>
-        <h1><a href="scope.html"><%= project_name %></a></h1>
         <ol class="timeline">
           <% for (var i in tl) {
             var node_class = 'tl-node';
@@ -55,7 +55,7 @@
   </div>
 
 
-  <div class="col-xs-7 col-xs-offset-4" id='details'>
+  <div class="col-sm-7 col-sm-offset-3" id='details'>
     <%- partial("scope") %>
   </div>
 

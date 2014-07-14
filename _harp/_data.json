@@ -1,7 +1,15 @@
 {
   "timeline": [
     {
-      "stamp": "Week 1 (7.14) | Sprint 1",
+      "stamp": "Outline",
+      "links": {
+        "> Custom Post Types": "cpt.html"
+      , "> Custom Field (repeaters)": "repeaters.html"
+      , "> Custom Functionality" : "#"
+      }
+    }
+  ,     {
+      "stamp": "Sprint 1",
       "links": {
         "> Hosting & DNS : General": "hosting.html"
       , "Security Config" : "#"
@@ -10,7 +18,7 @@
       }
     }
   , {
-      "stamp": "Week 2 (7.21) | Sprint 2",
+      "stamp": "Sprint 2",
       "links": {
        "> Front End Templating (cont.)" : "frontend.html"
       , "Testing" : "#"
@@ -23,7 +31,7 @@
       }
     }
     , {
-      "stamp": "Week 3 (7.28) | Sprint 3",
+      "stamp": "Sprint 3",
       "links": {
         "Content Input" : "#"
       , "Client changes" : "#"
@@ -39,7 +47,7 @@
       }
     }
     , {
-      "stamp": "Week 4 (8.4) | Sprint 4",
+      "stamp": "Sprint 4",
       "links": {
         "Quality Assurance Testing" : "#"
       , "Launch": "#"
