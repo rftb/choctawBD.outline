@@ -213,6 +213,21 @@ h1 {
     padding-bottom: .5em;
     font-size: 2.2em;
   }
+
+  h2, h3, h4 {
+    margin: .75em 0 .4em;
+  }
+
+  p, ul, ol {
+    font-size: 1.1em;
+  }
+
+  hr {
+    margin: 2em 0;
+    border-top: 1px solid #f7f7f7;
+    border-color: #f7f7f7;
+  }
+
 }
 
 
