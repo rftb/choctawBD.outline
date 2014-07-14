@@ -23,13 +23,14 @@ header, footer, nav, section, article, hgroup, figure {
 
 .sidebar > h1 {
   font-size: 1.25em;
-  background-color: #333;
   margin: 0 -.85em;
   padding: 1em;
   font-weight: 300;
+  border-bottom: 1px solid #f7f7f7;
   letter-spacing: .05em;
   a {
-    color: #FFF;
+    color: #666;
+    color: #666;
   }
 }
 
@@ -218,9 +219,7 @@ h1 {
     margin: .75em 0 .4em;
   }
 
-  p, ul, ol {
-    font-size: 1.1em;
-  }
+
 
   hr {
     margin: 2em 0;
