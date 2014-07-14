@@ -23,41 +23,6 @@
        "> Front End Templating (cont.)" : "frontend.html"
       , "Testing" : "#"
       }
-    },
-    {
-      "stamp": "Sprint 2 Deliverables",
-      "links": {
-        "Dev Link": "#"
-      }
-    }
-    , {
-      "stamp": "Sprint 3",
-      "links": {
-        "Content Input" : "#"
-      , "Client changes" : "#"
-      , "Analytics" : "#"
-      , "Speed Optimization" : "#"
-      , "Testing": "#"
-      }
-    },
-    {
-      "stamp": "Sprint 3 Deliverables",
-      "links": {
-        "Live ready site": "#"
-      }
-    }
-    , {
-      "stamp": "Sprint 4",
-      "links": {
-        "Quality Assurance Testing" : "#"
-      , "Launch": "#"
-      }
-    },
-    {
-      "stamp": "Sprint 4 Deliverables",
-      "links": {
-        "Live site": "#"
-      }
     }
   ]
 }
