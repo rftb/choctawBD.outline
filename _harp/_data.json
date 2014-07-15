@@ -20,6 +20,7 @@
       "stamp": "Sprint 2",
       "links": {
         "> Front End Templating (cont.)" : "frontend.html"
+      , "> Application & Contact Forms" : "forms.html"
       , "> Interactive Maps" : "maps.html"
       , "Testing" : "#"
       }
